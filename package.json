@@ -1,0 +1,33 @@
+{
+  "name": "@zudskyy/tscfg",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "ts-config": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "config/"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "ts-config",
+    "tscfg",
+    "typescript",
+    "CLI",
+    "Node",
+    "React",
+    "React-native",
+    "Next",
+    "npm",
+    "yarn"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "inquirer": "^12.4.2"
+  }
+}
